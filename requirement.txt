@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+streamlit
+sqlite-utils
+pydantic
+pandas
+numpy
+sqlalchemy
